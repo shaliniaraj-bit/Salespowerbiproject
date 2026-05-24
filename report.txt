@@ -3,3 +3,5 @@ Maruti Suzuki: 1,58,509 units, 36% market share, +12.44% YoY
 Tata Motors: 59,701 units, 31.12% YoY growth, strong EV sales (9,150 units, +72.1% YoY)
 
 Mahindra: 56,331 passenger vehicles, +8% YoY, strong SUV lineup
+
+new data added
